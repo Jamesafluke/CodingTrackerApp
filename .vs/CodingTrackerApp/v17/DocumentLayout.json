@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|c:\\personalmycode\\vs\\codingtrackerapp\\codingtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|solutionrelative:codingtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|c:\\personalmycode\\vs\\codingtrackerapp\\codingtracker\\dataaccess\\dataaccessdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|solutionrelative:codingtracker\\dataaccess\\dataaccessdapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|c:\\personalmycode\\vs\\codingtrackerapp\\codingtracker\\dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|solutionrelative:codingtracker\\dataaccess\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|c:\\personalmycode\\vs\\codingtrackerapp\\codingtracker\\codingtrackerlibrary\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB9B40D-7EE2-4015-9DE7-4C51C6CAD828}|CodingTracker\\CodingTracker.csproj|solutionrelative:codingtracker\\codingtrackerlibrary\\timeentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessDapper.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\DataAccess\\DataAccessDapper.cs",
+              "RelativeDocumentMoniker": "CodingTracker\\DataAccess\\DataAccessDapper.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\DataAccess\\DataAccessDapper.cs",
+              "RelativeToolTip": "CodingTracker\\DataAccess\\DataAccessDapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T19:45:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\DataAccess\\DataAccess.cs",
+              "RelativeDocumentMoniker": "CodingTracker\\DataAccess\\DataAccess.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\DataAccess\\DataAccess.cs",
+              "RelativeToolTip": "CodingTracker\\DataAccess\\DataAccess.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAHsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:28:08.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\Program.cs",
+              "RelativeDocumentMoniker": "CodingTracker\\Program.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\Program.cs",
+              "RelativeToolTip": "CodingTracker\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:57:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeEntry.cs",
+              "DocumentMoniker": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\CodingTrackerLibrary\\TimeEntry.cs",
+              "RelativeDocumentMoniker": "CodingTracker\\CodingTrackerLibrary\\TimeEntry.cs",
+              "ToolTip": "C:\\PersonalMyCode\\VS\\CodingTrackerApp\\CodingTracker\\CodingTrackerLibrary\\TimeEntry.cs",
+              "RelativeToolTip": "CodingTracker\\CodingTrackerLibrary\\TimeEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T20:02:52.81Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
